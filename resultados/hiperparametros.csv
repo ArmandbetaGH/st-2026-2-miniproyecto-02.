@@ -1,0 +1,5 @@
+modelo,elegido,RMSE_validacion
+KNN,{'n_neighbors': 3},446.14
+SVR,"{'C': 1.0, 'epsilon': 0.3}",511.1
+Random Forest,"{'max_depth': None, 'min_samples_leaf': 1}",437.16
+XGBoost,"{'learning_rate': 0.3, 'max_depth': 2}",580.74
